@@ -5,4 +5,6 @@ De VEDirect library is een aangepaste versie van deze library: https://www.githu
 
 Onder het mapje code staat de code die wij hebben gebruikt voor het testen. Deze code hebben wij ofwel aangepast ofwel volledig zelf geschreven (Dit staat ook aangegeven in comments in de code)
 
-Het bestand ReadVEDirect.ino hebben wij gebruikt om met de MPPT's te communiceren.
+Het bestand ReadVEDirect.ino is gebruikt om met de MPPT's te communiceren.
+
+Het bestand MotorTest.ino is gebruikt om de motor verbinding af te luisteren.
