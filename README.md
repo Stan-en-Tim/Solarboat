@@ -7,4 +7,4 @@ Onder het mapje code staat de code die wij hebben gebruikt voor het testen. Deze
 
 Het bestand ReadVEDirect.ino is gebruikt om met de MPPT's te communiceren.
 
-Het bestand MotorTest.ino is gebruikt om de motor verbinding af te luisteren.
+Het bestand SoftwareSerialExampleMotor.ino is gebruikt om de motor verbinding af te luisteren.
