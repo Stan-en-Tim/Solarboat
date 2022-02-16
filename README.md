@@ -10,3 +10,7 @@ Het bestand ReadVEDirect.ino is gebruikt om met de MPPT's te communiceren.
 Het bestand SoftwareSerialExampleMotor.ino is gebruikt om de motor verbinding af te luisteren.
 
 In het mapje filmpjes staan een paar filmpjes die zijn gemaakt tijdens de testen, omdat github stom is moet je de filmpjes eerst downloaden voordat je ze kan bekijken.
+
+slave_sender.ino is het programma voor de arduino wat is gebruikt om data te versturen naar een raspberry pi over i2c. Het is gebaseerd op een voorbeeld van wire.
+
+i2c_Receiver.py is het programma voor de raspberry pi om data te ontvangen over i2c.
